@@ -22,6 +22,11 @@
     	<artifactId>igogo-common</artifactId>
    		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
+  	<dependency>
+  		<groupId>com.igogo</groupId>
+    	<artifactId>igogo-common</artifactId>
+   		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
   
 </project>
